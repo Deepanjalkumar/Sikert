@@ -1,7 +1,7 @@
 
 # SIKERT
 
-It let's you perform subdomain enumeration using different sources across the internet.
+Sikert is an subdomain enumeration tool which uses different sources to perform enumeration. 
 
 ![sikert](https://user-images.githubusercontent.com/55708909/123653202-9261e200-d84a-11eb-9bcf-fe5fcb73449d.png)
 
