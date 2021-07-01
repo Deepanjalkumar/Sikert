@@ -13,7 +13,7 @@ Install my-project with go
 
 ```
 
-go get github.com/Operation-Falcon/sikert
+go get github.com/Deepanjalkumar/sikert.git
 
 cd $GO-PATH/sikert
 
